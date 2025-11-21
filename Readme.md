@@ -4,26 +4,40 @@ This frontend communicates with a Node.js backend (deployed separately) to fetch
 
 ## ✨ Features
 🎨 Soft pastel blob background with floating animations
+
 🪄 Glassmorphism UI with blur and depth
+
 🧍 Name input screen
+
 📚 28 quiz domains (auto-loaded from backend)
+
 ❓ Each domain contains 15 curated questions
+
 🔄 Fully dynamic question loading
+
 📝 Scores stored in backend (MongoDB)
+
 🏁 Quiz result summary
+
 📱 Fully responsive and touch-friendly design
 
 ## 🛠️ Tech Stack
 🧱 HTML5 – Structure & markup
+
 🎨 CSS3 – Layout, animations, glassmorphism, responsive grid
+
 ⚡ JavaScript (ES6) – Quiz logic, API calls, dynamic rendering
+
 🔤 Google Fonts (Poppins) – Clean, modern typography
+
 🚀 Render Static Hosting – Live deployment of the frontend
 
 🚀 Live Demo
+
 👉 https://quiz-frontend-pdp9.onrender.com/
 
 ## 📸 Screenshots
+
 ### 🏠 Home / Welcome Screen
 <img width="1918" height="971" alt="image" src="https://github.com/user-attachments/assets/d9697d18-4b43-4a15-933c-5bc164d745c4" />
 
