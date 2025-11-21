@@ -2,6 +2,7 @@
 A beautifully designed, lightweight quiz interface built with HTML, CSS, and JavaScript, featuring soft pastel blob backgrounds, smooth animations, and a clean multi-step flow.
 This frontend communicates with a Node.js backend (deployed separately) to fetch domains, questions, and save quiz scores.
 
+
 ## ✨ Features
 🎨 Soft pastel blob background with floating animations
 
@@ -21,6 +22,7 @@ This frontend communicates with a Node.js backend (deployed separately) to fetch
 
 📱 Fully responsive and touch-friendly design
 
+
 ## 🛠️ Tech Stack
 🧱 HTML5 – Structure & markup
 
@@ -32,9 +34,11 @@ This frontend communicates with a Node.js backend (deployed separately) to fetch
 
 🚀 Render Static Hosting – Live deployment of the frontend
 
+
 🚀 Live Demo
 
 👉 https://quiz-frontend-pdp9.onrender.com/
+
 
 ## 📸 Screenshots
 
