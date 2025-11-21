@@ -181,12 +181,6 @@
        .domain-grid {
            grid-template-columns: repeat(3, 1fr);
        }
-       #stepDomain {
-           max-height: 80vh;
-           overflow-y: auto;
-           overflow-x: hidden;
-           padding-right: 6px; 
-       }
     }  
     @media (max-width: 750px) {
        .domain-grid {
@@ -196,13 +190,19 @@
            max-height: 80vh;
            overflow-y: auto;
            overflow-x: hidden;
-           padding-right: 6px;
+           padding: 15px;
        }
     }
     @media (max-width: 450px) {
        .domain-grid {
            grid-template-columns: repeat(1, 1fr);
            overflow: auto;
+       }
+       #stepDomain {
+           max-height: 80vh;
+           overflow-y: auto;
+           overflow-x: hidden;
+           padding: 15px; 
        }
     }
 </style>
