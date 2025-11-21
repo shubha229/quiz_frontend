@@ -1,4 +1,4 @@
-# 🌈 Pastel Blob Quiz – Frontend  
+# 🌈 Quiz – Frontend  
 A beautifully designed, lightweight quiz interface built with **HTML, CSS, and JavaScript**, featuring soft pastel blob backgrounds, smooth animations, and a clean multi-step flow.
 This frontend communicates with a Node.js backend (deployed separately) to fetch domains, questions, and save quiz scores.
 
