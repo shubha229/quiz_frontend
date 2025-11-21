@@ -74,7 +74,7 @@
         padding: 32px 26px;
     }
 
-    #stepDomain.card,
+    #main.card,
     #stepQuiz.card {
         width: 90vw;
         max-width: 1100px;
@@ -180,13 +180,23 @@
     @media (max-width: 1100px) {
        .domain-grid {
            grid-template-columns: repeat(3, 1fr);
-           overflow: auto;
+       }
+       #stepDomain {
+           max-height: 80vh;
+           overflow-y: auto;
+           overflow-x: hidden;
+           padding-right: 6px; 
        }
     }  
     @media (max-width: 750px) {
        .domain-grid {
            grid-template-columns: repeat(2, 1fr);
-           overflow: auto;
+       }
+       #stepDomain {
+           max-height: 80vh;
+           overflow-y: auto;
+           overflow-x: hidden;
+           padding-right: 6px;
        }
     }
     @media (max-width: 450px) {
